@@ -68,3 +68,19 @@ h3 {
     height: 13em;
     width: 19.5em;
 }
+
+.box-con-img-3 {
+    background-image: url("img/graph.jpg");
+    height: 13em;
+    width: 19.5em;
+}
+
+.text-1 {
+    color: white;
+    font-weight: 900;
+}
+
+.text-2 {
+    color: white;
+    font-weight: 900;
+}
