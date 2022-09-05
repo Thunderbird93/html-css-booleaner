@@ -6,6 +6,17 @@
 
 .logo {
     width: 10em;
-    height: ;
+    ;
 }
 
+h1 {
+    font-size: 2em;
+}
+
+.scritto-da {
+    color: #808081;
+}
+
+.the-booleaner {
+    color: #3FA3DF;
+}
