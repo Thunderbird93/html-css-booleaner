@@ -38,10 +38,25 @@ h3 {
 }
 
 .blu {
-    color: greenyellow;
     height: 1em;
     width: 10em;
     background-color: #51A7E1;
     color: white;
+    border: 0px;
+}
+
+.blu-2 {
+    height: 1em;
+    width: 10em;
+    background-color: #BCE3F0;
+    color: black;
+    border: 0px;
+}
+
+.blu-3 {
+    height: 1em;
+    width: 10em;
+    background-color: #BCE3F0;
+    color: black;
     border: 0px;
 }
