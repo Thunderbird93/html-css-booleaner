@@ -1,13 +1,13 @@
 .box-con-img {
     background-image:url("img/pattern.png") ;
     background-color: #639EF9;
-    height: 12em;
+    height: 7em;
 }
 
 .logo {
     width: 12em;
     position: absolute;
-    top: 9em;
+    top: 4.5em;
     left: 1em;
 }
 
