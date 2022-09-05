@@ -6,7 +6,9 @@
 
 .logo {
     width: 10em;
-    ;
+    position: absolute;
+    top: 10em;
+    left: 1em;
 }
 
 h1 {
