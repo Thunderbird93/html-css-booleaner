@@ -36,3 +36,12 @@ h1 {
 h3 {
     color: #808081;
 }
+
+.blu {
+    color: greenyellow;
+    height: 1em;
+    width: 10em;
+    background-color: #51A7E1;
+    color: white;
+    border: 0px;
+}
