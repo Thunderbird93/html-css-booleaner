@@ -84,3 +84,7 @@ h3 {
     color: white;
     font-weight: 900;
 }
+
+table {
+    text-align: left;
+}
